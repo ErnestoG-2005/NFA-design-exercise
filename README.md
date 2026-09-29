@@ -4,4 +4,4 @@
 
 #I did not experience any "gold-st-rings" while going through the problems. From the problems I have done, I think I accounted for all the next states. 
 
-#I don't think there is anything else to comment about.
+#My submission consist of a one folder consisting of multiple different folders for each problem that I have done. In each one of those folders, it should contain a .jiff file, a .txt file, and a .md file.
